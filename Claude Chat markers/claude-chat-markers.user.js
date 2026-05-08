@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Add markers to specific text selections in Claude chat with side panel navigation
-// @author       Devanathan Sabapathy
+// @authors      Devanathan Sabapathy, Claude
 // @match        https://claude.ai/*
 // @grant        none
 // ==/UserScript==
