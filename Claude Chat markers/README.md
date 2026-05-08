@@ -40,4 +40,5 @@ A Tampermonkey userscript that lets you bookmark specific text inside a Claude c
 
 ## Author
 
-Devanathan Sabapathy
+Devanathan Sabapathy   
+Claude
