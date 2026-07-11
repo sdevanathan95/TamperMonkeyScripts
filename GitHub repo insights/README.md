@@ -13,6 +13,10 @@ A Tampermonkey userscript that adds a sidebar panel to GitHub repo pages showing
 - **Stale-while-revalidate cache** — cached data renders instantly, fresh data loads silently in background
 - **SPA-aware** — detects GitHub's client-side navigation and re-renders on repo change
 
+## Snaps
+
+![Insights panel](.assets/Insights.png)
+
 ## Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
